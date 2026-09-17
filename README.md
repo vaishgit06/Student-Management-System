@@ -411,7 +411,3 @@ Possible additions:
 **Vaishnavi Singh Chauhan**
 
 B.Tech Computer Science and Engineering
-
-
-# Student-Management-System
-The objective of this project is to develop a simple console-based application for managing student information.
